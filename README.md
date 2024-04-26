@@ -4,7 +4,7 @@ Evaluating large language models (LLM) is challenging due to their broad capabil
 
 > ℹ️  **Note:** The evaluation steps in this lab are based on the paper  [Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena](https://arxiv.org/pdf/2306.05685.pdf).
 
-This lab addresses this challenge by providing a practical solution for evaluating LLMs using LLM-as-a-Judge using a strong LLM as a judge with Amazon Bedrock. This is relevant for developers and researchers working on evaluating LLM based applications. In the notebook you are guided using MT-Bench questions to generate test answers and evaluate them with a single-answer grading using the Bedrock API, Python and Langchain. The notebook consists of the following chapters: 
+This lab addresses this challenge by providing a practical solution for evaluating LLMs using LLM-as-a-Judge with Amazon Bedrock. This is relevant for developers and researchers working on evaluating LLM based applications. In the notebook you are guided using MT-Bench questions to generate test answers and evaluate them with a single-answer grading using the Bedrock API, Python and Langchain. The notebook consists of the following chapters: 
 
 1) Set-up of the environment
 2) Load MT-Bench questions
